@@ -1,0 +1,6 @@
+# Para os arquivos muito grande
+files3/
+# Para os arquivos muito grande
+database/
+
+*.sql

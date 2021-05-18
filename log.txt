@@ -1,0 +1,13 @@
+Processando 100001 registros ... 
+Encontrou 50 ocorrências na VARA : 4ª Vara da Família e Sucessões
+
+ Gerando arquivos de saída...Outros processos: 99951 
+Processando 100001 registros ... 
+Encontrou 50 ocorrências na VARA : 4ª Vara da Família e Sucessões
+
+ Gerando arquivos de saída...Outros processos: 99951 
+
+time linux:
+real    0m2,182s
+user    0m1,054s
+sys     0m0,739s
